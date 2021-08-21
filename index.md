@@ -1,3 +1,3 @@
-## Welcome to BeZero's Blog
+# Welcome to Be-Zero's Blog
 
-愿世界核平
+[机器学习]: https://be-zero.github.io/Machine_Learning/
